@@ -20,7 +20,6 @@
       "vscjava.vscode-java-pack"
       "vscjava.vscode-java-test"
       "vscjava.vscode-maven"
-      "Pivotal.vscode-boot-dev-pack"
       "vmware.vscode-spring-boot"
       "vscjava.vscode-spring-boot-dashboard"
       "vscjava.vscode-spring-initializr"
